@@ -1,11 +1,9 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
 <title>Murach's Java Servlets and JSP</title>
-<link rel="stylesheet" href="main.css" type="text/css"/>
+<link rel="stylesheet" href="main.css"/>
 </head>
 <body>
 	<h1>Thanks for joining our email list</h1>
